@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "536550012612",
+    "project_id": "qataar-f48c7",
+    "storage_bucket": "qataar-f48c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536550012612:android:99f23eb523095caf9ebb91",
+        "android_client_info": {
+          "package_name": "com.example.qataar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536550012612-m0klh9p36eh6qek89migb20ej3n6fqma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qataar",
+            "certificate_hash": "e3487c8a9e53418bb9dc90fde091aedd4d86e3e5"
+          }
+        },
+        {
+          "client_id": "536550012612-q8efu8rg37ior1to0cn40jrgmf63bnf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbsZLI9shAI1nWcm0ew0rXyq6itKjDUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536550012612-q8efu8rg37ior1to0cn40jrgmf63bnf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536550012612-820e3if3vs77aas59mko1f9qnaifga3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qataar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
