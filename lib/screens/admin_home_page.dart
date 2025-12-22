@@ -187,7 +187,7 @@ class _AdminHomePageState extends State<AdminHomePage> {
                             serviceId: selection['id'],
                           ),
                         ),
-                      );
+                      ).then((_) => _searchController.clear());
                     }
                   },
                   fieldViewBuilder:

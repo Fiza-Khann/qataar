@@ -284,7 +284,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             categoryId: selection['categoryId'],
                           ),
                         ),
-                      );
+                      ).then((_) => searchController.clear());
                     },
                     fieldViewBuilder: (context, controller, focusNode, onEditingComplete) {
                       searchController = controller;

@@ -20,5 +20,22 @@ This system can be implemented in:
 - NADRA Offices
 - Driving License Centers
 
+## Categories Implemented
+- Hospitals
+- NADRA
+- Banks
+- Driving License Centers
+
+## Booking Flow
+1. Select category
+2. Select branch
+3. Select service
+4. Generate token
+5. View estimated waiting time
+
+## Firestore Structure
+categories → category → branches → services
+
+
 ## Author
 Fiza
