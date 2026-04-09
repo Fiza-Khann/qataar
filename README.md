@@ -1,4 +1,4 @@
-# Smart Token Management System
+# Qataar
 
 A token-based queue management system designed for public and private services in Pakistan.
 
